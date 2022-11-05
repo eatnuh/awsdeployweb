@@ -16,7 +16,7 @@ public class AwsDeployWebApplication {
     static class HelloController {
         @RequestMapping
         public String hello() {
-            return "hello my web!!!!!";
+            return "hello my web!!!!!!!";
         }
 
     }
