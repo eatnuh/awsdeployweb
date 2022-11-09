@@ -16,7 +16,7 @@ public class AwsDeployWebApplication {
     static class HelloController {
         @RequestMapping
         public String hello() {
-            return "hello my web webhook test~~~!! build";
+            return "hello my web webhook test~~~!! build deploy";
         }
 
     }
